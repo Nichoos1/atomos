@@ -1,0 +1,2 @@
+import{A as t}from"./index.4fd794f8.js";import"./index.97f421b6.js";import"./iframe.ebfc7f6b.js";import"./index.44d4ee5e.js";import"./jsx-runtime.5af61702.js";const m={title:"Data display/Avatar",component:t,args:{src:"https://github.com/RaimundooNeto.png",alt:"Raimundo Neto"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},e=["Primary","WithFallback"];export{p as Primary,c as WithFallback,e as __namedExportsOrder,m as default};
+//# sourceMappingURL=Avatar.stories.56f8d641.js.map
